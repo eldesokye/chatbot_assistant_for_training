@@ -1,0 +1,49 @@
+# Core LangChain
+langchain
+langchain-community
+langchain-openai
+langchain-groq
+langchain_huggingface
+langchain-text-splitters
+langchain_chroma
+
+# Database & Vector Stores
+chromadb
+faiss-cpu
+duckdb
+
+# PostgreSQL
+psycopg2-binary  # or psycopg2 for production
+SQLAlchemy
+psycopg2
+# Document Processing
+pypdf
+pymupdf
+bs4
+arxiv
+wikipedia
+unstructured
+
+# Embeddings & Models
+sentence_transformers
+huggingface_hub
+openai
+
+# Web & Search
+duckduckgo_search==5.3.1b1
+validators==0.28.1
+youtube_transcript_api
+pytube
+
+# Utilities
+python-dotenv
+ipykernel
+pandas
+numexpr
+fastapi==0.104.1
+uvicorn==0.24.0
+psycopg2-binary==2.9.9
+python-dotenv==1.0.0
+pydantic==2.5.0
+pydantic-settings==2.1.0
+ipykernel 
